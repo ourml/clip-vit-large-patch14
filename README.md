@@ -30,7 +30,7 @@ The original implementation had two variants: one using a ResNet image encoder a
 
 ### Use with Transformers
 
-```python3
+```python
 from PIL import Image
 import requests
 
