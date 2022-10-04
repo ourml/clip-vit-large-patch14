@@ -1,6 +1,10 @@
 ---
 tags:
 - vision
+widget:
+- src: https://huggingface.co/datasets/mishig/sample_images/resolve/main/cat-dog-music.png
+  candidate_labels: playing music, playing sports
+  example_title: Cat & Dog
 ---
 
 # Model Card: CLIP
