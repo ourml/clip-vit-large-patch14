@@ -5,6 +5,9 @@ widget:
 - src: https://huggingface.co/datasets/mishig/sample_images/resolve/main/cat-dog-music.png
   candidate_labels: playing music, playing sports
   example_title: Cat & Dog
+- src: https://huggingface.co/datasets/mishig/sample_images/blob/main/football-match.jpg
+  candidate_labels: 梅西, C罗, 马奎尔
+  example_title: football
 ---
 
 # Model Card: CLIP
